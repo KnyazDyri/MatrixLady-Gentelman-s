@@ -1,0 +1,7 @@
+git checkout master - перейти на эту ветку
+git clone ссылка
+git status
+git add --all
+git commit -m"комментарий"
+git push
+git pull (скачать актуальную версию)
