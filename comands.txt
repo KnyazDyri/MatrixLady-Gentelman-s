@@ -1,7 +1,7 @@
 git checkout master - перейти на эту ветку
 git clone ссылка
 git status
-git add --all
-git commit -m"комментарий"
-git push
+git add --all (положить в коробку)
+git commit -m"комментарий" (запечатать коробку)
+git push (послать коробку)
 git pull (скачать актуальную версию)
